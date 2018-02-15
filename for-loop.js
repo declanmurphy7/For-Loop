@@ -1,4 +1,4 @@
-var scores = [24, 32, 17];	
+var scores = [24, 32, 17, 71, 37, 22, 88];	
 var arrayLength = scores.length;
 var roundNumber = 0;
 var msg = '';
